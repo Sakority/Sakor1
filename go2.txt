@@ -1,3 +1,5 @@
-pubic main {
 
+pubic main {
+writeln " it is working"
+readln "Action"
 }
